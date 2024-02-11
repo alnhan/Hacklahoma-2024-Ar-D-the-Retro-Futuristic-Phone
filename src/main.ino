@@ -44,7 +44,7 @@ void setup()
 void loop()
 {
   // Print a message to the LCD.
-  lcd.print("Hi, I'm Arny!");
+  lcd.print("Hi, I'm Ar-D!");
 
   // set the cursor to column 0, line 1.
   lcd.setCursor(0, 1);
